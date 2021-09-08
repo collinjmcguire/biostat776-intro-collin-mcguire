@@ -4,7 +4,12 @@ navbar:
   title: "Collin's Website"
   left:
     - text: "Home"
+      icon: fa-home
       href: index.html
     - text: "About"
+      icon: fa-info-circle
       href: about.html
+    - text: "Music"
+      icon: fa-headphones
+      href: music.html
 ---
