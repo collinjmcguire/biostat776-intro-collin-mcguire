@@ -12,4 +12,7 @@ navbar:
     - text: "Music"
       icon: fa-headphones
       href: music.html
+output: 
+  html_document:
+    theme: cosmo
 ---

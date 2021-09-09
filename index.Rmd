@@ -2,6 +2,6 @@
 title: "Index"
 ---
 
-### About this Website
+### Welcome to my Website
+This is a personal website I've developed for the Statistical Programming course at JHSPH. While you are here, feel free to check out the About tab for personal information about me or the music tab to see what I've been listening to lately.
 
-### Tune of the Day
